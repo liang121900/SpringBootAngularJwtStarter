@@ -7,7 +7,7 @@ Spring boot config with jwt
 
 run the spring boot app, 
 
-for url of "/" it will serve the angular app
+for url of "/" it will serve the angular app, can login/logout using jwt
 
 for url of "/api/authenticate", use post method with {"username":"username","password":"password"} on body, it will return a jwt token
 
